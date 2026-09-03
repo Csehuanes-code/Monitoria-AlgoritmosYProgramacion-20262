@@ -23,6 +23,18 @@ Para que las sesiones sean dinámicas y efectivas, trabajamos bajo las siguiente
 
 ---
 
+## 🧠 Estudio Autónomo: aprende a estudiar (con y sin IA)
+Además de las sesiones de monitoría, este repositorio incluye la carpeta [**`EstudioAutonomo/`**](./EstudioAutonomo/README.md), un espacio dedicado a fortalecer tus hábitos de estudio y tu gestión del tiempo **entre sesiones**, incluyendo cómo usar herramientas de inteligencia artificial (Gemini, NotebookLM, ChatGPT, Claude) de forma que te ayuden a **aprender**, no a **copiar y pegar**.
+
+Ahí encontrarás:
+*   📚 Técnicas de estudio respaldadas por evidencia científica (y cuáles se sienten productivas pero no lo son).
+*   🤖 Una guía de uso inteligente y responsable de la IA para estudiar, con un prompt listo para convertir cualquier IA en un tutor socrático.
+*   🍅 Gestión del tiempo con la técnica Pomodoro y una plantilla semanal de estudio.
+
+👉 Empieza por [`EstudioAutonomo/README.md`](./EstudioAutonomo/README.md).
+
+---
+
 ## 📂 Contenido del Repositorio
 El material se encuentra organizado por módulos semanales siguiendo nuestra ruta de aprendizaje esperado (RAEs):
 
@@ -31,6 +43,7 @@ El material se encuentra organizado por módulos semanales siguiendo nuestra rut
 *   **Módulo 3: Programación Orientada a Objetos** (Clases, atributos, constructores y métodos de instancia).
 *   **Módulo 4: Estructuras de Datos** (Arreglos unidimensionales/vectores, bidimensionales/matrices y listas).
 *   **Módulo 5: Persistencia de Datos** (Lectura y escritura de archivos planos en formato `.csv`).
+*   **EstudioAutonomo/** (Técnicas de estudio, gestión del tiempo y uso inteligente de IA — ver arriba).
 
 ---
 
