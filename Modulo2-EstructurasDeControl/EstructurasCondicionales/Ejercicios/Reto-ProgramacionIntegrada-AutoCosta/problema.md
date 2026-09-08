@@ -40,4 +40,3 @@ Si pre-aprueba, se le asigna una tasa de interés anual:
 
 **Salida esperada:** precio con impuesto, precio final de venta (o motivo de rechazo si la financiación no califica), estado de la financiación con su tasa (si aplica), y comisión del vendedor en pesos.
 
-*Sugerencia para el monitor:* pedir a cada estudiante que primero dibuje el árbol de decisiones en papel (como en la Estrategia "Pizarras colaborativas" del plan de trabajo) antes de escribir el pseudocódigo — con 4 partes encadenadas, el orden de evaluación de los `Si anidados` es la parte que más se presta a errores.
