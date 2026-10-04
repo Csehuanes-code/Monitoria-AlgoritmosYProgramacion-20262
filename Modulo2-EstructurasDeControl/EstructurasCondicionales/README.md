@@ -25,8 +25,8 @@ EstructurasCondicionales/
     ├── CreditoEstudiantil/
     ├── ServicioTuristico/
     ├── TecnoAdiana/
-    ├── CaribeanNice/
-    └── Reto-ProgramacionIntegrada-AutoCosta/
+    └── CaribeanNice/
+└── Reto/
 ```
 
 ---
@@ -95,7 +95,7 @@ Problemas del mundo laboral y financiero que combinan validaciones de entrada, d
 
 ## 🏆 El Reto de Programación Integrada: AutoCosta
 
-Al final del banco de ejercicios se encuentra el [**`Reto-ProgramacionIntegrada-AutoCosta`**](./Ejercicios/Reto-ProgramacionIntegrada-AutoCosta/), el desafío culminante de esta sección.
+Al final del banco de ejercicios se encuentra el [**`Reto de Programacion Integrada AutoCosta`**](./Reto/auto-costa.md), el desafío culminante de esta sección.
 
 ### ¿Por qué es un reto integrador?
 Combina en un solo flujo secuencial las lógicas de todos los ejercicios anteriores **sin utilizar ciclos**:
@@ -146,7 +146,7 @@ Paso 5: Refactorización a Clean Code en C++
 | [`ServicioTuristico`](./Ejercicios/ServicioTuristico/) | `problema.md` | Enunciado y reglas | Nivel 3 (Avanzado) |
 | [`TecnoAdiana`](./Ejercicios/TecnoAdiana/) | `problema.md` | Enunciado y liquidación | Nivel 3 (Avanzado) |
 | [`CaribeanNice`](./Ejercicios/CaribeanNice/) | `problema.jpeg` | `caribean-nice.psc`, `.cpp`, `solucion.psc` | Nivel 3 (Avanzado / Modelo) |
-| [`Reto-ProgramacionIntegrada-AutoCosta`](./Ejercicios/Reto-ProgramacionIntegrada-AutoCosta/) | `problema.md` | Enunciado multinivel | Nivel 4 (Reto Integrador) |
+| [`Reto de Programacion Integrada AutoCosta`](./Reto/) | `auto-costa.md` | Enunciado multinivel | Nivel 4 (Reto Integrador) |
 
 ---
 
